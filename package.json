@@ -11,8 +11,10 @@
     "predeploy": "npm run build",
     "deploy": "npm run predeploy && gh-pages -d dist"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "html5", "JavaScript", "Sass", "BEM"
+  ],
+  "author": "Cristian Amaya <cris_199812@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
