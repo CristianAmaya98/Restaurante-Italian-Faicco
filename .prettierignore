@@ -1,0 +1,9 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/assets
+**/gulpfile.js
+**/package.json
+**/package-lock.json
+**/src/assets
